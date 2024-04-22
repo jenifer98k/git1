@@ -1,0 +1,25 @@
+=>..cd 
+back to the folder 
+
+covert git1 folder to git folder 
+=>git init (intialised empt git repository created git )
+
+
+workspace 
+gitfolder + working directory 
+=>git add index.html instead of that 
+=>git add .
+      is enuf this  takes all files which are modified moves to staging area
+=>git commit -m "index.html , style.css , red.txt"
+
+=>git push mail origin (error no  origin)
+create folder in github
+
+=>git remote add origin https://github.com/jenifer98k/git2.git
+=>git branch     //master
+
+main was updated a master this is just a word update 
+git push origin main 
+(insted use )
+=>git push origin master
+origin=>git branch -M main
